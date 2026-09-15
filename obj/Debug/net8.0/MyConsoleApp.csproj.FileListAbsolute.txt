@@ -1,0 +1,14 @@
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
