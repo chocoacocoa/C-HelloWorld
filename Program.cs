@@ -7,7 +7,7 @@ namespace MyConsoleApp
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hi World");
-            Console.WriteLine("I love you");
+            // Console.WriteLine("I love you");
 
             Console.WriteLine("Enter your birthday: ");
             string birthday = Console.ReadLine();
