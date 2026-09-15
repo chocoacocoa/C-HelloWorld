@@ -7,6 +7,7 @@ namespace MyConsoleApp
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hi World");
+            Console.WriteLine("tangina mo");
         }
     }
 }
