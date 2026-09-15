@@ -12,3 +12,4 @@
 /home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
 /home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
 /home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
+/home/cholo/Documents/APPDEVTESTS/1/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
