@@ -13,6 +13,8 @@ namespace MyConsoleApp
             string birthday = Console.ReadLine();
 
             Console.WriteLine("Your birtday is in "+birthday);
+
+            Console.WriteLine("Pagkadila ko sa pekpek, hipak sa vape");
         }
     }
 }
