@@ -55,6 +55,12 @@ namespace MyConsoleApp
             }
             Console.WriteLine("};");
             Console.WriteLine("Sorted Array");
+
+            //birthday feature added
+            Console.WriteLine("Enter your birthday: ");
+            string birthday = Console.ReadLine();
+
+            Console.WriteLine("Your birtday is in "+birthday);
         }//static void Main(string[] args)
     }
 }
